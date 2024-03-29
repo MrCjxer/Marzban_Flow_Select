@@ -19,7 +19,7 @@ PORT = '12345'
 ## Linux
 
 ```bash
-git clone https://github.com/M03ED/Marzban_Flow_Select
+git clone https://github.com/MrCjxer/Marzban_Flow_Select
 cd Marzban_Flow_Select
 wget -qO- https://bootstrap.pypa.io/get-pip.py | python3 -
 python3 -m pip install -r requirements.txt
